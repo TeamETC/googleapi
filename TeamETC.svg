@@ -24,8 +24,8 @@
       </xhtml:head>
       <xhtml:body>
         <xhtml:iframe 
-          src="https://unpkg.com/snoopylearning@latest/dist/index.html" 
-          allowfullscreen
+          src="https://unpkg.com/snoopylearning@latest/dist/index.html"
+          allowfullscreen="true"
           allow="fullscreen">
         </xhtml:iframe>
       </xhtml:body>
