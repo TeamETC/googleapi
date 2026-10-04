@@ -23,11 +23,7 @@
         </xhtml:style>
       </xhtml:head>
       <xhtml:body>
-        <xhtml:iframe 
-          src="https://unpkg.com/snoopylearning@latest/dist/index.html"
-          allowfullscreen="true"
-          allow="fullscreen">
-        </xhtml:iframe>
+        <xhtml:iframe src="https://unpkg.com/snoopylearning@latest/dist/index.html"></xhtml:iframe>
       </xhtml:body>
     </xhtml:html>
   </foreignObject>
